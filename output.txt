@@ -1,0 +1,7 @@
+canada --> 842
+university --> 781
+graduate --> 45
+expensive --> 4
+faculty --> 14
+education --> 486
+dalhousie --> 183
